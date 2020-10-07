@@ -184,3 +184,5 @@ launchermeta.mojang.com
 mojang.com
 (\.|^)hometownmc\.com$
 minecraft.net
+*.mojang.com
+*.minecraft.net
