@@ -29,7 +29,6 @@ valvecorp.net
 valvecorp.org
 valvecorporate.com
 valvessoftwares.com
-#MoreValveDomains, possibily unrelated to Steam use
 3games1box.com
 5games1box.com
 aheadofthegamemovie.com
@@ -184,8 +183,6 @@ launchermeta.mojang.com
 mojang.com
 (\.|^)hometownmc\.com$
 minecraft.net
-*.mojang.com
-*.minecraft.net
 www.minecraft.net
 silver.roblox.com
 roblox.com
@@ -203,4 +200,4 @@ mc.voizev.com
 play.earthmc.net
 immortalninjas.aternos.me
 launchercontent.mojang.com
-
+(\.|^)roblox\.com$
